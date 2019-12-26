@@ -1,0 +1,32 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+
+.page-header {
+    background-color: #000;
+    background-image: url(/images/bg3.jpg);
+    background-size: 100%;
+    background-position: 0 -70px;
+}
+
+
+@media only screen
+  and (min-device-width: 320px)
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) {
+    .page-header {
+        background-size: 130%;
+        background-position: center center;
+        background-repeat: no-repeat;
+    }
+    h2 {
+        font-size: 1.2em;
+    }
+    .project-name {
+        font-size: 3em;
+    }
+}
+
