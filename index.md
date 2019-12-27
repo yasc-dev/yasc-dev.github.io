@@ -5,7 +5,7 @@ slogan: Development &#8226; Maintenance &#8226; QA
 
 ## What We Do 
 
-We have built just an another company to satisfy the increasing needs of innovative approach to design and development of digital products. Our capabilities range from development of SaaS/APIs, distributed deployments, payment integrations, marketplaces, ERPs, B2B systems to help you with the solution that creates value for your business.
+We are here to satisfy the ever-increasing needs of innovative approach to design and development of digital products. Our capabilities range from development and deployment of APIs, mobile apps, payment integrations, marketplaces, ERPs, B2B systems to help you with the solution that creates value for your business.
 
 ## Contact Us
 
